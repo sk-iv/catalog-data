@@ -11,5 +11,4 @@ yarn.lock
 .yarnclean
 .vscode
 public
-src
 .dependabot

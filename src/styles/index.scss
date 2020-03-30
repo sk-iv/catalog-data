@@ -1,0 +1,23 @@
+$theme-colors: (
+  "primary": #00bcfd
+);
+@import "~bootstrap/scss/bootstrap";
+
+$body-color: #3c3c3c;
+$body-bg: #d1dfea;
+
+
+body {
+  color: $body-color;
+  font-family: sans-serif;
+  background-color: $body-bg;
+}
+.strong{
+  font-weight: bold;
+}
+.page-link{
+  cursor: pointer;
+}
+.btn-disabled{
+  cursor: not-allowed;
+}
